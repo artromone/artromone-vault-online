@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: artromone notes — главная
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Меня зовут Артём Романович. И это открытая база моих заметок.
+
+Мой телеграм канал: https://t.me/art_rom.
